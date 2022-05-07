@@ -1,0 +1,19 @@
+D:\5 semester\aplikacje bazodanowe\Restauracja\Restauracja\Debug\Restauracja.vcxprojAssemblyReference.cache
+D:\5 semester\aplikacje bazodanowe\Restauracja\Restauracja\Debug\Restauracja.Logowanie.resources
+D:\5 semester\aplikacje bazodanowe\Restauracja\Restauracja\Debug\Restauracja.vcxproj.GenerateResource.cache
+D:\5 semester\aplikacje bazodanowe\Restauracja\Restauracja\Debug\Restauracja.Program.resources
+D:\5 semester\aplikacje bazodanowe\Restauracja\Restauracja\Debug\Restauracja.vcxproj.CopyComplete
+C:\Users\pawel\Downloads\Restauracja\Debug\Restauracja.exe.config
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.vcxproj.AssemblyReference.cache
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.exe.config
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.Logowanie.resources
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.Program.resources
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.vcxproj.GenerateResource.cache
+C:\Users\pawel\Downloads\Restauracja\Restauracja\Debug\Restauracja.vcxproj.CopyComplete
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Debug\Restauracja.exe.config
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.vcxprojAssemblyReference.cache
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.exe.config
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.Logowanie.resources
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.Program.resources
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.vcxproj.GenerateResource.cache
+D:\5 semester\aplikacje bazodanowe\projekt Twardokęs, Osmolovskyi\Restauracja Twardokęs, Osmolovskyi\Restauracja\Debug\Restauracja.vcxproj.CopyComplete
